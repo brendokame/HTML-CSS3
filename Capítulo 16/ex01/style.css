@@ -1,0 +1,29 @@
+@charset "utf-8"
+
+body{
+    
+}
+h1{
+    display: inline;
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    border-color: darkred;
+    border-width: 10px;
+    border-style: solid;
+    text-align: center;
+  margin: 20px auto 40px auto;
+    
+  padding: 20px;
+
+    outline-style:dashed;
+    outline-width: 10px;
+    outline-color: black;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+
+}
